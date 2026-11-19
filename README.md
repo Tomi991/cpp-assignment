@@ -24,4 +24,4 @@ This is a simple C++ program that determines whether an integer entered by a use
    `./even_odd_checker`
 
 ## Author
-Her Name
+Olajide Ayotomi
